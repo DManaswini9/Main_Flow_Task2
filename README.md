@@ -1,12 +1,12 @@
-##📊 General Exploratory Data Analysis (EDA) – Global Superstore Dataset
+<h2>📊 General Exploratory Data Analysis (EDA) – Global Superstore Dataset</h2>
 
-##📌 Overview
+<h3>📌 Overview</h3>
 
 This project focuses on Exploratory Data Analysis (EDA) of the Global Superstore Sample dataset.
 The goal is to clean, understand, and visualize the dataset to uncover meaningful business insights.
 Through this analysis, we explore sales patterns, customer segments, product categories, and regional performance.
 
-##🎯 Objectives
+<h3>🎯 Objectives</h3>
 
 Understand the structure and quality of the dataset
 
