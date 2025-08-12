@@ -16,7 +16,7 @@ Calculate statistical summaries to understand trends
 
 Create visualizations to identify relationships and patterns in the data
 
-##🛠️ Technologies & Libraries Used
+<h3>🛠️ Technologies & Libraries Used</h3>
 
 Python 3 – Programming language
 
@@ -28,7 +28,7 @@ Matplotlib – Data visualization
 
 Seaborn – Advanced statistical visualizations
 
-##📂 Workflow
+<h3>📂 Workflow</h3>
 
 Import Libraries – Load essential Python packages
 
@@ -38,9 +38,7 @@ Data Cleaning – Handle missing data, remove inconsistencies
 
 Statistical Analysis – Mean, median, standard deviation, and more
 
-Data Visualization –
-
-Distribution plots (histograms, boxplots)
+Data Visualization –Distribution plots (histograms, boxplots)
 
 Category-wise comparisons
 
@@ -48,7 +46,7 @@ Correlation heatmaps
 
 Trend analysis
 
-##📊 Dataset Information
+ <h3>Dataset Information</h3>
 
 The Global Superstore Sample dataset contains:
 
@@ -60,7 +58,7 @@ Product Details – Category, sub-category, product name
 
 Performance Metrics – Sales, quantity, discount, profit
 
-##📌 Key Insights
+<h3>📌 Key Insights</h3>
 
 Identified top-performing product categories
 
