@@ -1,11 +1,13 @@
-#📊 General Exploratory Data Analysis (EDA) – Global Superstore Dataset
+##📊 General Exploratory Data Analysis (EDA) – Global Superstore Dataset
 
-#📌 Overview
+##📌 Overview
+
 This project focuses on Exploratory Data Analysis (EDA) of the Global Superstore Sample dataset.
 The goal is to clean, understand, and visualize the dataset to uncover meaningful business insights.
 Through this analysis, we explore sales patterns, customer segments, product categories, and regional performance.
 
-#🎯 Objectives
+##🎯 Objectives
+
 Understand the structure and quality of the dataset
 
 Perform data cleaning to handle missing values and inconsistencies
@@ -14,7 +16,8 @@ Calculate statistical summaries to understand trends
 
 Create visualizations to identify relationships and patterns in the data
 
-#🛠️ Technologies & Libraries Used
+##🛠️ Technologies & Libraries Used
+
 Python 3 – Programming language
 
 Pandas – Data manipulation and cleaning
@@ -25,7 +28,8 @@ Matplotlib – Data visualization
 
 Seaborn – Advanced statistical visualizations
 
-#📂 Workflow
+##📂 Workflow
+
 Import Libraries – Load essential Python packages
 
 Load Dataset – Read the CSV file into a Pandas DataFrame
@@ -44,7 +48,8 @@ Correlation heatmaps
 
 Trend analysis
 
-#📊 Dataset Information
+##📊 Dataset Information
+
 The Global Superstore Sample dataset contains:
 
 Order Details – Order ID, order date, ship date, etc.
@@ -55,7 +60,8 @@ Product Details – Category, sub-category, product name
 
 Performance Metrics – Sales, quantity, discount, profit
 
-#📌 Key Insights
+##📌 Key Insights
+
 Identified top-performing product categories
 
 Observed seasonal sales fluctuations
